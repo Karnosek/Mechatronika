@@ -1,2 +1,3 @@
 # Mechatronika
-guya
+Karol Nosek IM repozytorium
+read guya
